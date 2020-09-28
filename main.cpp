@@ -5,7 +5,7 @@ int main() {
     cout << "Któryż dziś jest dzień w tygodniu? Podaj numer!" << endl;
     int numerDnia;
     cin >> numerDnia;
-    cout << "Podany dzień to dzień o numerze: " << numerDnia << endl;
+    cout << "Podany dzień to dzień oooo numerze:   : " << numerDnia << endl;
     cout << "Nazwa dnia, który wybrałeś to: ";
     switch (numerDnia) {
         case 1: cout << "Poniedziałek";
