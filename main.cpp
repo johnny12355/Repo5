@@ -22,7 +22,7 @@ int main() {
             break;
         case 7: cout << "Niedziela";
             break;
-        default: cout << "Error! Tydzień ma tylko siedem dni, Ty nicponiu!" << endl;
+        default: cout << "Error! Tydzień ma tylko siedem, a nie wiecej lub mniej dni, Ty nicponiu!" << endl;
             break;
     }
     cout << '\n';
